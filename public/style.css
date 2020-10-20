@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+li.me {
+  background-color: rgb(214, 212, 212);
+}
